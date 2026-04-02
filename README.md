@@ -17,7 +17,7 @@ A neural network-based reverse dictionary system that finds words based on their
 ## Repository Structure
 
 ```
-nlp-reverse-dict/
+reverse-dict-en-de/
 ├── config.py              # Configuration and hyperparameters
 ├── model.py               # BERT-LSTM model architecture
 ├── data_processing.py     # Dataset loading and tokenization

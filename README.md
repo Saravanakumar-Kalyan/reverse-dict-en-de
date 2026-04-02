@@ -28,8 +28,7 @@ reverse-dict-en-de/
 ├── main.py                # Main execution script
 ├── requirements.txt       # Python dependencies
 ├── README.md              # This file
-├── .gitignore             # Git ignore file
-└── notebooks/             # Original Jupyter notebooks
+└── .gitignore             # Git ignore file
 ```
 
 ## Installation

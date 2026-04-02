@@ -44,7 +44,7 @@ reverse-dict-en-de/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Saravanakumar-Kalyan/reverse-dict-en-de.git
-   cd nlp-reverse-dict
+   cd reverse-dict-en-de
    ```
 
 2. Create a virtual environment:

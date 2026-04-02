@@ -1,0 +1,117 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+venv.bak/
+env.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+.sublime-project
+.sublime-workspace
+
+# Jupyter & IPython
+.ipynb_checkpoints
+.jupyter
+*.ipynb
+
+# Data files (large)
+*.csv
+*.xlsx
+*.json
+*.pkl
+*.pickle
+*.parquet
+!requirements.txt
+
+# Model checkpoints (large)
+*.pth
+*.pt
+*.bin
+best_reverse_dict_model.pth
+
+# Vector models (very large - ~2+ GB)
+glove-wiki-gigaword-300/
+fasttext-wiki-news-subwords-300/
+*.npy
+*.vec
+*.bin
+
+# Alignment files
+*.align
+forward.align
+reverse.align
+fast_align_en_de
+
+# Parallel corpus files (large)
+epuds.en-de.en
+epuds.en-de.de
+cleaned.en
+cleaned.de
+text.en-de
+epuds-parallel/
+epuds-parallel.zip
+
+# FastAlign build
+fast_align/
+build/
+
+# Output files
+*.log
+*.png
+*.jpg
+*.pdf
+training_history.png
+*.out
+
+# OS
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Misc
+.cache/
+.tmp/
+temp/
+tmp/
+*.bak
